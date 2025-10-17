@@ -14,8 +14,8 @@ Only the following fields change per run:
 !python run_mlm.py \
   --model_name_or_path bert-base-multilingual-cased \
   --tokenizer_name /path/to/custom_tokenizer \
-  --train_file /content/drive/MyDrive/LocalMachineTranslation/Datasets/nllb/om/train.txt \
-  --validation_file /content/drive/MyDrive/LocalMachineTranslation/Datasets/nllb/om/validation.txt \
+  --train_file /path/to/train.txt \
+  --validation_file /path/to/validation.txt \
   --output_dir ./mbert_oromo_finetuned \
   --config_name config.json
 
