@@ -1,0 +1,42 @@
+# === Python / Colab ===
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+
+# === Model outputs & checkpoints ===
+outputs/
+runs/
+checkpoints/
+logs/
+*.bin
+*.pt
+*.ckpt
+*.h5
+*.safetensors
+
+# === Temporary / system files ===
+*.log
+*.tmp
+*.zip
+*.tar.gz
+*.jsonl
+
+# === Colab / Google Drive mounts ===
+/content/
+/drive/
+
+# === Environment / dependency files ===
+.env
+venv/
+.venv/
+*.egg-info/
+pip-wheel-metadata/
+
+# === Jupyter / notebook auto-saves ===
+*/.ipynb_checkpoints/*
+
+# === OS files ===
+Thumbs.db
+.DS_Store
