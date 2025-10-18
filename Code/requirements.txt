@@ -1,7 +1,15 @@
-transformers>=4.40.0
-datasets>=2.20.0
-tokenizers>=0.19.0
+# Core deep learning + transformers
 torch>=2.1.0
+transformers>=4.40.0
+tokenizers>=0.19.0
 accelerate>=0.30.0
-sentencepiece
+
+# Data handling
+pandas>=2.1.0
+datasets>=2.20.0
+openpyxl  # for Excel export
+
+# Utilities
 tqdm
+sentencepiece
+protobuf
