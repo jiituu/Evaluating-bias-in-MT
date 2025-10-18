@@ -19,3 +19,11 @@ Only the following fields change per run:
   --output_dir /path/to/output/dir \
   --config_name config.json
 
+
+## Annotations & Benchmark
+
+- Human annotations and labeling guidelines are stored in [`Annotations/`](Annotations/).  
+  Includes:
+  - Annotated Excel files (`Am`, `Om`, `Ti`)
+  - The annotation guideline (`Annotation_Guideline.docx`)
+
