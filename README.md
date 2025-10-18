@@ -16,6 +16,6 @@ Only the following fields change per run:
   --tokenizer_name /path/to/custom_tokenizer \
   --train_file /path/to/train.txt \
   --validation_file /path/to/validation.txt \
-  --output_dir ./mbert_oromo_finetuned \
+  --output_dir /path/to/output/dir \
   --config_name config.json
 
