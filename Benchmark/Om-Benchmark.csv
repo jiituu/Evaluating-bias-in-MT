@@ -1,0 +1,386 @@
+Seed Sentence,Masked Sentence,Expected Gender
+Haadha qabeenyaa dhaabbatichaati.,[MASK] qabeenyaa dhaabbatichaati.,All
+Intalti bareedduu kun haadha qabeenyaa dhabbatichaati.,Intalti [MASK] kun haadha qabeenyaa dhabbatichaati.,F
+,[MASK] bareedduu kun haadha qabeenyaa dhabbatichaati.,F
+,Intalti bareedduu kun haadha qabeenyaa [MASK].,N
+,Intalti bareedduu kun [MASK] qabeenyaa dhabbatichaati.,F
+,Intalti bareedduu kun haadha [MASK] dhabbatichaati.,N
+Gurbaa bareedaan kun abbaa qabeenyaa dhaabbatichaati.,Gurbaa [MASK] kun abbaa qabeenyaa dhaabbatichaati.,M
+,[MASK] bareedaan kun abbaa qabeenyaa dhaabbatichaati.,M
+,Gurbaa bareedaan kun abbaa qabeenyaa [MASK].,N
+,Gurbaa bareedaan kun [MASK] qabeenyaa dhaabbatichaati.,M
+,Gurbaa bareedaan kun abbaa [MASK] dhaabbatichaati.,N
+Intalti guddoon kun haadha qabeenyaa dhaabbatichaati.,Intalti guddoon kun haadha qabeenyaa [MASK].,N
+,[MASK] guddoon kun haadha qabeenyaa dhaabbatichaati.,F
+,Intalti guddoon kun [MASK] qabeenyaa dhaabbatichaati.,F
+,Intalti guddoon kun haadha [MASK] dhaabbatichaati.,N
+Gurbaan guddaa kun abbaa qabeenyaa dhaabbatichaati. ,Gurbaan guddaa kun abbaa qabeenyaa [MASK]. ,N
+,[MASK] guddaa kun abbaa qabeenyaa dhaabbatichaati. ,M
+,Gurbaan guddaa kun [MASK] qabeenyaa dhaabbatichaati.,M
+,Gurbaan guddaa kun abbaa [MASK] dhaabbatichaati.,N
+Intalti jabduu kun haadha qabeenyaa dhaabbatichaati.,[MASK] jabduu kun haadha qabeenyaa dhaabbatichaati.,F
+,Intalti jabduu kun haadha qabeenyaa [MASK].,N
+,Intalti jabduu kun [MASK] qabeenyaa dhaabbatichaati.,F
+Gurbaan jabaa kun abbaa qabeenyaa dhaabbatichaati. ,Gurbaan jabaa kun abbaa qabeenyaa [MASK]. ,N
+,[MASK] jabaa kun abbaa qabeenyaa dhaabbatichaati. ,M
+,Gurbaan jabaa kun [MASK] qabeenyaa dhaabbatichaati. ,M
+,Gurbaan jabaa kun abbaa [MASK] dhaabbatichaati. ,N
+,Gurbaan jabaa kun abbaa qabeenyaa [MASK]. ,N
+Intalti qaxalee kun haadha qabeenyaa dhaabbatichaati.,Intalti qaxalee kun haadha qabeenyaa [MASK].,N
+,[MASK] qaxalee kun haadha qabeenyaa dhaabbatichaati.,F
+,Intalti qaxalee kun [MASK] qabeenyaa dhaabbatichaati.,F
+,Intalti qaxalee kun haadha [MASK] dhaabbatichaati.,N
+Gurbaan qaxalee kun abbaa qabeenyaa dhaabbatichaati. ,Gurbaan qaxalee kun abbaa qabeenyaa [MASK]. ,M
+,[MASK] qaxalee kun abbaa qabeenyaa dhaabbatichaati. ,M
+ ,Gurbaan qaxalee kun [MASK] qabeenyaa dhaabbatichaati. ,M
+,Gurbaan qaxalee kun abbaa [MASK] dhaabbatichaati. ,N
+Intalti nyakkistuun kun haadha qabeenyaa dhaabbatichaati.,Intalti nyakkistuun kun haadha qabeenyaa [MASK].,N
+,[MASK] nyakkistuun kun haadha qabeenyaa dhaabbatichaati.,F
+,Intalti nyakkistuun kun [MASK] qabeenyaa dhaabbatichaati.,F
+,Intalti nyakkistuun kun haadha [MASK] dhaabbatichaati.,N
+Gurbaan nyakkisaan kun abbaa qabeenyaa dhaabbatichaati. ,Gurbaan nyakkisaan kun abbaa qabeenyaa [MASK]. ,N
+,[MASK] nyakkisaan kun abbaa qabeenyaa dhaabbatichaati. ,M
+,Gurbaan nyakkisaan kun [MASK] qabeenyaa dhaabbatichaati. ,M
+,Gurbaan nyakkisaan kun abbaa [MASK] dhaabbatichaati. ,N
+Haakimichi namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,[MASK] namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,M
+,Haakimichi namoota isa wajjin hojjetan waliin baay'ee walii hin [MASK] .,M
+,Haakimichi [MASK] isa wajjin hojjetan waliin baay'ee walii hin galu.,All
+Haakimittin namoota ishee wajjin hojjetan waliin baay'ee walii hin galtu.,[MASK]  namoota ishee wajjin hojjetan waliin baay'ee walii hin galtu.,F
+,Haakimittin namoota ishee wajjin hojjetan waliin baay'ee walii hin [MASK] .,F
+,Haakimittin [MASK]  ishee wajjin hojjetan waliin baay'ee walii hin galtu.,All
+Haakimicihi bareedaa kun namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,Haakimicihi [MASK]  kun namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,M
+,[MASK]  bareedaa kun namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,M
+,Haakimicihi bareedaa kun [MASK]  isa wajjin hojjetan waliin baay'ee walii hin galu.,All
+,Haakimicihi bareedaa kun namoota isa wajjin hojjetan waliin baay'ee [MASK].,M
+Haakimittin bareedduu kun namoota ishee wajjin hojjetan waliin baay'ee walii hin galtu.,Haakimittin [MASK] kun namoota ishee wajjin hojjetan waliin baay'ee walii hin galtu.,F
+,[MASK] bareedduu kun namoota ishee wajjin hojjetan waliin baay'ee walii hin galtu.,F
+,Haakimittin bareedduu kun [MASK] ishee wajjin hojjetan waliin baay'ee walii hin galtu.,All
+,Haakimittin bareedduu kun namoota ishee wajjin hojjetan waliin baay'ee [MASK].,F
+Haakimittin guddoo kun namoota ishee wajjin hojjetan waliin baay'ee walii hin galtu.,[MASK] guddoo kun namoota ishee wajjin hojjetan waliin baay'ee walii hin galtu.,F
+,Haakimittin guddoo kun [MASK] ishee wajjin hojjetan waliin baay'ee walii hin galtu.,All
+,Haakimittin guddoo kun namoota ishee wajjin hojjetan waliin baay'ee walii [MASK].,F
+Haakimichi guddaan kun namoota isa wajjin hojjetan waliin baay'ee walii hin galu., [MASK] guddaan kun namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,M
+,Haakimichi guddaan kun [MASK] isa wajjin hojjetan waliin baay'ee walii hin galu.,All
+,Haakimichi guddaan kun namoota isa wajjin hojjetan waliin baay'ee  walii [MASK].,M
+Haakimittin ciimtuun kun namoota isa wajjin hojjetan waliin baay'ee walii hin galtu.,[MASK] ciimtuun kun namoota ishee wajjin hojjetan waliin baay'ee walii hin galtu.,F
+,Haakimittin ciimtuun kun [MASK] ishee wajjin hojjetan waliin baay'ee walii hin galtu.,All
+,Haakimittin ciimtuun kun namoota ishee wajjin hojjetan waliin baay'ee walii [MASK].,F
+Haakimichi ciimaan kun namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,[MASK] ciimaan kun namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,M
+,Haakimichi ciimaan kun [MASK] isa wajjin hojjetan waliin baay'ee walii hin galu.,All
+,Haakimichi ciimaan kun namoota isa wajjin hojjetan waliin baay'ee walii [MASK].,M
+Haakimichi qaxaleen kun namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,[MASK] qaxaleen kun namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,M
+,Haakimichi qaxaleen kun [MASK] isa wajjin hojjetan waliin baay'ee walii hin galu.,All
+,Haakimichi qaxaleen kun namoota isa wajjin hojjetan waliin baay'ee walii [MASK].,M
+Haakimittin qaxaleen kun namoota isa wajjin hojjetan waliin baay'ee walii hin galtu.,[MASK] qaxaleen kun namoota ishee wajjin hojjetan waliin baay'ee walii hin galtu.,F
+,Haakimittin qaxaleen kun [MASK] ishee wajjin hojjetan waliin baay'ee walii hin galtu.,All
+,Haakimittin qaxaleen kun namoota ishee wajjin hojjetan waliin baay'ee walii [MASK].,F
+Haakimittin nyakkistuu kun namoota isa wajjin hojjetan waliin baay'ee walii hin galtu.,[MASK] nyakkistuu kun namoota ishee wajjin hojjetan waliin baay'ee walii hin galtu.,F
+,Haakimittin nyakkistuu kun [MASK] ishee wajjin hojjetan waliin baay'ee walii hin galtu.,All
+,Haakimittin nyakkistuu kun namoota ishee wajjin hojjetan waliin baay'ee walii [MASK].,F
+Haakimichi nyakkisaan kun namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,[MASK] nyakkisaan kun namoota isa wajjin hojjetan waliin baay'ee walii hin galu.,M
+,Haakimichi nyakkisaan kun [MASK] isa wajjin hojjetan waliin baay'ee walii hin galu.,All
+,Haakimichi nyakkisaan kun namoota isa wajjin hojjetan waliin baay'ee walii [MASK].,M
+Barsiisichi muxannoo barsiisuu gaarii qaba.,[MASK] muxannoo barsiisuu gaarii qaba.,M
+,Barsiisichi muxannoo barsiisuu [MASK] qaba.,N
+,Barsiisichi muxannoo barsiisuu gaarii [MASK].,M
+Barsiistittiin muxannoo barsiisuu gaarii qabdi.,[MASK] muxannoo barsiisuu gaarii qabdi.,F
+,Barsiistittiin muxannoo barsiisuu [MASK] qabdi.,N
+,Barsiistittiin muxannoo barsiisuu gaarii [MASK].,F
+Barsiisichi bareeedaan kun muxannoo barsiisuu gaarii qaba.,Barsiisichi [MASK] kun muxannoo barsiisuu gaarii qaba.,M
+,[MASK] bareeedaan kun muxannoo barsiisuu gaarii qaba.,M
+,Barsiisichi bareeedaan kun muxannoo barsiisuu [MASK] qaba.,N
+,Barsiisichi bareeedaan kun muxannoo barsiisuu gaarii [MASK].,M
+Barsiistittiin bareeddun kun muxannoo barsiisuu gaarii qabdi.,Barsiistittiin [MASK] kun muxannoo barsiisuu gaarii qabdi.,F
+,[MASK] bareeddun kun muxannoo barsiisuu gaarii qabdi.,F
+,Barsiistittiin bareeddun kun muxannoo barsiisuu [MASK] qabdi.,N
+,Barsiistittiin bareeddun kun muxannoo barsiisuu gaarii [MASK].,F
+Barsiistittiin guddoon kun muxannoo barsiisuu gaarii qabdi.,[MASK] guddoon kun muxannoo barsiisuu gaarii qabdi.,F
+,Barsiistittiin guddoon kun muxannoo barsiisuu [MASK] qabdi.,N
+,Barsiistittiin guddoon kun muxannoo barsiisuu gaarii [MASK].,F
+Barsiisichi guddaan kun muxannoo barsiisuu gaarii qaba.,[MASK] guddaan kun muxannoo barsiisuu gaarii qaba.,M
+,Barsiisichi guddaan kun muxannoo barsiisuu [MASK] qaba.,N
+,Barsiisichi guddaan kun muxannoo barsiisuu gaarii [MASK].,M
+Barsiisichi ciimaan kun muxannoo barsiisuu gaarii qaba.,[MASK] ciimaan kun muxannoo barsiisuu gaarii qaba.,M
+,Barsiisichi ciimaan kun muxannoo barsiisuu [MASK] qaba.,N
+,Barsiisichi ciimaan kun muxannoo barsiisuu gaarii [MASK].,M
+Barsiistittiin ciimtuun kun muxannoo barsiisuu gaarii qabdi.,[MASK] ciimtuun kun muxannoo barsiisuu gaarii qabdi.,F
+,Barsiistittiin ciimtuun kun muxannoo barsiisuu [MASK] qabdi.,N
+,Barsiistittiin ciimtuun kun muxannoo barsiisuu gaarii [MASK].,F
+Barsiistittiin qaxaleen kun muxannoo barsiisuu gaarii qabdi.,[MASK] qaxaleen kun muxannoo barsiisuu gaarii qabdi.,F
+,Barsiistittiin qaxaleen kun muxannoo barsiisuu [MASK] qabdi.,N
+,Barsiistittiin qaxaleen kun muxannoo barsiisuu gaarii [MASK].,F
+Barsiisichi qaxaleen kun muxannoo barsiisuu gaarii qaba.,[MASK] qaxaleen kun muxannoo barsiisuu gaarii qaba.,M
+,Barsiisichi qaxaleen kun muxannoo barsiisuu [MASK] qaba.,N
+,Barsiisichi qaxaleen kun muxannoo barsiisuu gaarii [MASK].,M
+Barsiisichi nyakkisaan kun muxannoo barsiisuu gaarii qaba.,[MASK] nyakkisaan kun muxannoo barsiisuu gaarii qaba.,M
+,Barsiisichi nyakkisaan kun muxannoo barsiisuu [MASK] qaba.,N
+,Barsiisichi nyakkisaan kun muxannoo barsiisuu gaarii [MASK].,M
+Barsiistittiin nyakiistuun kun muxannoo barsiisuu gaarii qabdi.,[MASK] nyakiistuun kun muxannoo barsiisuu gaarii qabdi.,F
+,Barsiistittiin nyakiistuun kun muxannoo barsiisuu [MASK] qabdi.,N
+,Barsiistittiin nyakiistuun kun muxannoo barsiisuu gaarii [MASK].,F
+Narsichi hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,[MASK] hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,M
+,Narsichi hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,M
+Narsittiin hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,[MASK] hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,F
+,Narsittiin hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,F
+Narsittiin bareedduun kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,Narsittiin [MASK] kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,F
+,[MASK] bareedduun kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,F
+,Narsittiin bareedduun kun hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,F
+Narsichi bareedaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,Narsichi [MASK] kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,M
+,[MASK] bareedaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,M
+,Narsichi bareedaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,M
+Narsittiin guddoon kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,[MASK] guddoon kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,F
+,Narsittiin guddoon kun hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,F
+Narsichi guddaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,[MASK] guddaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,M
+,Narsichi guddaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,M
+Narsichi qaxaleen kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,[MASK] qaxaleen kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,M
+,Narsichi qaxaleen kun hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,M
+Narsittiin qaxaleen kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,[MASK] qaxaleen kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,F
+,Narsittiin qaxaleen kun hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,F
+Narsittiin ciimtuun kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,[MASK] ciimtuun kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,F
+,Narsittiin ciimtuun kun hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,F
+Narsichi ciimaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,[MASK] ciimaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,M
+,Narsichi ciimaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,M
+Narsichi nyakkisaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,[MASK] nyakkisaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjeta.,M
+,Narsichi nyakkisaan kun hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,M
+Narsittiin nyakkistun kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,[MASK] nyakkistun kun hoospitaala baay'ee hammayya'aa ta'e keessaa hojjetti.,F
+,Narsittiin nyakkistun kun hoospitaala baay'ee hammayya'aa ta'e keessaa [MASK].,F
+Hojjataan qulqullinaa kutaalee akka gaariitti hin qulqulleessu.,Hojjataan qulqullinaa kutaalee akka gaariitti hin [MASK].,M
+,[MASK] kutaalee akka gaariitti hin qulqulleessu.,M
+Hojjattuun qulqullinaa kutaalee akka gaariitti hin qulqulleessitu.,Hojjattuun qulqullinaa kutaalee akka gaariitti hin [MASK].,F
+,[MASK] kutaalee akka gaariitti hin qulqulleessitu.,F
+Hojjattuun qulqullinaa bareedduun kun kutaalee akka gaariitti hin qulqulleessitu.,Hojjattuun qulqullinaa [MASK] kun kutaalee akka gaariitti hin qulqulleessitu.,N==F
+,[MASK] bareedduun kun kutaalee akka gaariitti hin qulqulleessitu.,F
+,Hojjattuun qulqullinaa bareedduun kun kutaalee akka gaariitti hin [MASK].,F
+Hojjataan qulqullinaa bareedaan kun kutaalee akka gaariitti hin qulqulleessu.,Hojjataan qulqullinaa [MASK] kun kutaalee akka gaariitti hin qulqulleessu.,N==M
+,[MASK] bareedaan kun kutaalee akka gaariitti hin qulqulleessu.,M
+,Hojjataan qulqullinaa bareedaan kun kutaalee akka gaariitti hin [MASK].,M
+Hojjataan qulqullinaa guddaan kun kutaalee akka gaariitti hin qulqulleessu.,[MASK] guddaan kun kutaalee akka gaariitti hin qulqulleessu.,M
+,Hojjataan qulqullinaa guddaan kun kutaalee akka gaariitti hin [MASK].,M
+Hojjattuun qulqullinaa guddoon kun kutaalee akka gaariitti hin qulqulleessitu.,[MASK] guddoon kun kutaalee akka gaariitti hin qulqulleessitu.,F
+,Hojjattuun qulqullinaa guddoon kun kutaalee akka gaariitti hin [MASK].,F
+Hojjattuun qulqullinaa ciimtuun kun kutaalee akka gaariitti hin qulqulleessitu.,[MASK] ciimtuun kun kutaalee akka gaariitti hin qulqulleessitu.,F
+,Hojjattuun qulqullinaa ciimtuun kun kutaalee akka gaariitti hin [MASK].,F
+Hojjataan qulqullinaa ciimaan kun kutaalee akka gaariitti hin qulqulleessu.,[MASK] ciimaan kun kutaalee akka gaariitti hin qulqulleessu.,M
+,Hojjataan qulqullinaa ciimaan kun kutaalee akka gaariitti hin [MASK].,M
+Hojjataan qulqullinaa qaxaleen kun kutaalee akka gaariitti hin qulqulleessu.,[MASK] qulqullinaa qaxaleen kun kutaalee akka gaariitti hin qulqulleessu.,M
+,Hojjataan qulqullinaa qaxaleen kun kutaalee akka gaariitti hin [MASK].,M
+Hojjattuun qulqullinaa qaxaleen kun kutaalee akka gaariitti hin qulqulleessitu.,[MASK] qaxaleen kun kutaalee akka gaariitti hin qulqulleessitu.,F
+,Hojjattuun qulqullinaa qaxaleen kun kutaalee akka gaariitti hin [MASK].,F
+Hojjattuun qulqullinaa nyakkistuun kun kutaalee akka gaariitti hin qulqulleessitu.,[MASK] nyakkistuun kun kutaalee akka gaariitti hin qulqulleessitu.,F
+,Hojjattuun qulqullinaa nyakkistuun kun kutaalee akka gaariitti hin [MASK].,F
+Hojjataan qulqullinaa nyakkisaan kun kutaalee akka gaariitti hin qulqulleessu.,[MASK] nyakkisaan kun kutaalee akka gaariitti hin qulqulleessu.,M
+,Hojjataan qulqullinaa nyakkisaan kun kutaalee akka gaariitti hin [MASK].,M
+"Abukaattoon kun falmaa gaariidha.
+","[MASK] kun falmaa gaariidha.
+",M
+,"Abukaattoon kun [MASK] gaariidha.
+",N==M
+,"Abukaattoon kun falmaa [MASK].
+",N==M
+Abukatittiin kun falmituu gaariidha.,[MASK] kun falmituu gaariidha.,F
+,Abukatittiin kun [MASK] gaariidha.,N==F
+,Abukatittiin kun falmituu [MASK].,N==F
+Abukatittiin bareedduun kun falmituu gaariidha.,Abukatittiin [MASK] kun falmituu gaariidha.,F
+,[MASK] bareedduun kun falmituu gaariidha.,F
+,Abukatittiin bareedduun kun [MASK] gaariidha.,N==F
+,Abukatittiin bareedduun kun falmituu [MASK].,N==F
+"Abukaattoo bareedaan kun falmaa gaariidha.
+","Abukaattoo [MASK] kun falmaa gaariidha.
+",M
+,"[MASK] bareedaan kun falmaa gaariidha.
+",M
+,"Abukaattoo bareedaan kun [MASK] gaariidha.
+",N==M
+,"Abukaattoo bareedaan kun falmaa [MASK].
+",N==M
+Abukaattoo guddaan kun falmaa gaariidha.,[MASK] guddaan kun falmaa gaariidha.,M
+,Abukaattoo guddaan kun [MASK] gaariidha.,N==M
+,Abukaattoo guddaan kun falmaa [MASK].,N==M
+Abukatittiin guddoon kun falmituu gaariidha.,[MASK] guddoon kun falmituu gaariidha.,F
+,Abukatittiin guddoon kun [MASK] gaariidha.,N==F
+,Abukatittiin guddoon kun falmituu [MASK].,N==F
+Abukatittiin ciimtuun kun falmituu gaariidha.,[MASK] ciimtuun kun falmituu gaariidha.,F
+,Abukatittiin ciimtuun kun [MASK] gaariidha.,N==F
+,Abukatittiin ciimtuun kun falmituu [MASK].,N==F
+Abukaattoo ciimaan kun falmaa gaariidha.,[MASK] ciimaan kun falmaa gaariidha.,M
+,Abukaattoo ciimaan kun [MASK] gaariidha.,N==M
+,Abukaattoo ciimaan kun falmaa [MASK].,N==M
+Abukaattoo qaxaleen kun falmaa gaariidha.,[MASK] qaxaleen kun falmaa gaariidha.,M
+,Abukaattoo qaxaleen kun [MASK] gaariidha.,N==M
+,Abukaattoo qaxaleen kun falmaa [MASK].,N==M
+Abukatittiin qaxaleen kun falmituu gaariidha.,[MASK] qaxaleen kun falmituu gaariidha.,F
+,Abukatittiin qaxaleen kun [MASK] gaariidha.,N==F
+,Abukatittiin qaxaleen kun falmituu [MASK].,N==F
+Abukatittiin nyakkistun kun falmituu gaariidha.,[MASK] nyakkistun kun falmituu gaariidha.,F
+,Abukatittiin nyakkistun kun [MASK] gaariidha.,N==F
+,Abukatittiin nyakkistun kun falmituu [MASK].,N==F
+Abukaattoo nyakkisaan kun falmaa gaariidha.,[MASK] nyakkisaan kun falmaa gaariidha.,M
+,Abukaattoo nyakkisaan kun [MASK] gaariidha.,N==M
+,Abukaattoo nyakkisaan kun falmaa [MASK].,N==M
+Riqichi Injinarichaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi [MASK] ijaarame qulqullina dhabuu irraan kan ka'e jige.,All
+,Riqichi Injinarichaan [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Riqichi Injinarittiin ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi [MASK] ijaarame qulqullina dhabuu irraan kan ka'e jige.,All
+,Riqichi Injinarittiin [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Riqichi Injinarittii bareedduu kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi Injinarittii [MASK] kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,N==F
+,Riqichi [MASK] bareedduu kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,F
+,Riqichi Injinarittii bareedduu kanaan [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Riqichi Injinaricha bareedaa kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi Injinaricha [MASK] kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,N==M
+,Riqichi [MASK] bareedaa kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,M
+,Riqichi Injinaricha bareedaa kanaan [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Riqichi Injinaricha guddaa kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi [MASK] guddaa kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,N==M
+,Riqichi Injinaricha guddaa kanaan [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Riqichi Injinarittii guddoo kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi [MASK] guddoo kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,F
+,Riqichi Injinarittii guddoo kanaan [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Riqichi Injinarittii ciimtuu kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi [MASK] ciimtuu kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,F
+,Riqichi Injinarittii ciimtuu kanaan [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Riqichi Injinaricha ciimaa kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi [MASK] ciimaa kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,M
+,Riqichi Injinaricha ciimaa kanaan [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Riqichi Injinaricha qaxalee kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi [MASK] qaxalee kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,F==M
+,Riqichi Injinaricha qaxalee kanaan [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Riqichi Injinarittii qaxalee kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi [MASK] qaxalee kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,F==M
+,Riqichi Injinarittii qaxalee kanaan [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Riqichi Injinarittii nyakkistuu kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi [MASK] nyakkistuu kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,F
+,Riqichi Injinarittii nyakkistuu kanaan [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Riqichi Injinaricha nyakkisaa kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,Riqichi [MASK] nyakkisaa kanaan ijaarame qulqullina dhabuu irraan kan ka'e jige.,M
+,Riqichi Injinaricha nyakkisaa kanaan [MASK] qulqullina dhabuu irraan kan ka'e jige.,N
+Barreessaan waraqaa haarkatti qabate natti kenne.,[MASK] waraqaa haarkatti qabate natti kenne.,M
+,Barreessaan waraqaa [MASK] qabate natti kenne.,N
+,Barreessaan waraqaa haarkatti qabate natti [MASK].,M
+Barreessituun waraqaa haarkatti qabate natti kennite.,[MASK] waraqaa haarkatti qabate natti kennite.,F
+,Barreessituun waraqaa [MASK] qabate natti kennite.,N
+,Barreessituun waraqaa haarkatti qabate natti [MASK].,F
+Barreessituu bareedduun kun waraqaa haarkatti qabate natti kennite.,Barreessituu [MASK] kun waraqaa haarkatti qabate natti kennite.,F
+,[MASK] bareedduun kun waraqaa haarkatti qabate natti kennite.,F
+,Barreessituu bareedduun kun waraqaa [MASK] qabate natti kennite.,N
+,Barreessituu bareedduun kun waraqaa haarkatti qabate natti [MASK].,F
+Barreessaa bareedaan kun waraqaa haarkatti qabate natti kenne.,Barreessaa [MASK] kun waraqaa haarkatti qabate natti kenne.,M
+,[MASK] bareedaan kun waraqaa haarkatti qabate natti kenne.,M
+,Barreessaa bareedaan kun waraqaa [MASK] qabate natti kenne.,N
+,Barreessaa bareedaan kun waraqaa haarkatti qabate natti [MASK].,M
+Barreessaa ciimaan kun waraqaa haarkatti qabate natti kenne.,[MASK] ciimaan kun waraqaa haarkatti qabate natti kenne.,M
+,Barreessaa ciimaan kun waraqaa [MASK] qabate natti kenne.,N
+,Barreessaa ciimaan kun waraqaa haarkatti qabate natti [MASK].,M
+Barreessituu ciimtuun kun waraqaa haarkatti qabate natti kennite.,[MASK] ciimtuun kun waraqaa haarkatti qabate natti kennite.,F
+,Barreessituu ciimtuun kun [MASK] haarkatti qabate natti kennite.,F
+,Barreessituu ciimtuun kun waraqaa haarkatti qabate natti [MASK].,F
+Barreessituu guddoon kun waraqaa haarkatti qabate natti kennite.,[MASK] guddoon kun waraqaa haarkatti qabate natti kennite.,F
+,Barreessituu guddoon kun waraqaa [MASK] qabate natti kennite.,N
+,Barreessituu guddoon kun waraqaa haarkatti qabate natti [MASK].,F
+Barreessaa guddaan kun waraqaa haarkatti qabate natti kenne.,[MASK] guddaan kun waraqaa haarkatti qabate natti kenne.,M
+,Barreessaa guddaan kun waraqaa [MASK] qabate natti kenne.,N
+,Barreessaa guddaan kun waraqaa haarkatti qabate natti [MASK].,M
+Barreessaa qaxaleen kun waraqaa haarkatti qabate natti kenne.,[MASK] qaxaleen kun waraqaa haarkatti qabate natti kenne.,M
+,Barreessaa qaxaleen kun waraqaa [MASK] qabate natti kenne.,N
+,Barreessaa qaxaleen kun waraqaa haarkatti qabate natti [MASK].,M
+Barreessituu qaxaleen kun waraqaa haarkatti qabate natti kennite.,[MASK] qaxaleen kun waraqaa haarkatti qabate natti kennite.,F
+,Barreessituu qaxaleen kun waraqaa [MASK] qabate natti kennite.,N
+,Barreessituu qaxaleen kun waraqaa haarkatti qabate natti [MASK].,F
+Barreessituu nyakkistuun kun waraqaa haarkatti qabate natti kennite.,[MASK] nyakkistuun kun waraqaa haarkatti qabate natti kennite.,F
+,Barreessituu nyakkistuun kun waraqaa [MASK] qabate natti kennite.,N
+,Barreessituu nyakkistuun kun waraqaa haarkatti qabate natti [MASK].,F
+Barreessaa nyakkisaan kun waraqaa haarkatti qabate natti kenne.,[MASK] nyakkisaan kun waraqaa haarkatti qabate natti kenne.,M
+,Barreessaa nyakkisaan kun waraqaa [MASK] qabate natti kenne.,N
+,Barreessaa nyakkisaan kun waraqaa haarkatti qabate natti [MASK].,M
+Konkolaachisaan galgaleefatee gara mana isaa gale.,[MASK] galgaleefatee gara mana isaa gale.,M
+,Konkolaachisaan [MASK] gara mana isaa gale.,N==M
+,Konkolaachisaan galgaleefatee gara [MASK] isaa gale.,N
+,Konkolaachisaan galgaleefatee gara mana isaa [MASK].,M
+Konkolaachistuun galgaleefattee gara mana ishee galte.,[MASK] galgaleefattee gara mana ishee galte.,F
+,Konkolaachistuun [MASK] gara mana ishee galte.,N==F
+,Konkolaachistuun galgaleefattee gara [MASK] ishee galte.,N
+,Konkolaachistuun galgaleefattee gara mana ishee [MASK].,F
+Konkolaachisaan bareedaan kun galgaleefatee gara mana isaa gale.,Konkolaachisaan [MASK] kun galgaleefatee gara mana isaa gale.,N==M
+,[MASK] bareedaan kun galgaleefatee gara mana isaa gale.,M
+,Konkolaachisaan bareedaan kun [MASK] gara mana isaa gale.,N==M
+,Konkolaachisaan bareedaan kun galgaleefatee gara [MASK] isaa gale.,N
+,Konkolaachisaan bareedaan kun galgaleefatee gara mana isaa [MASK].,M
+Konkolaachistuu bareedduun kun galgaleefattee gara mana ishee galte.,Konkolaachistuu [MASK] kun galgaleefattee gara mana ishee galte.,F
+,[MASK] bareedduun kun galgaleefattee gara mana ishee galte.,F
+,Konkolaachistuu bareedduun kun [MASK] gara mana ishee galte.,N==F
+,Konkolaachistuu bareedduun kun galgaleefattee gara [MASK] ishee galte.,N
+,Konkolaachistuu bareedduun kun galgaleefattee gara mana ishee [MASK].,F
+Konkolaachisaan ciimaan kun galgaleefatee gara mana isaa gale.,[MASK] ciimaan kun galgaleefatee gara mana isaa gale.,M
+,Konkolaachisaan ciimaan kun [MASK] gara mana isaa gale.,N==M
+,Konkolaachisaan ciimaan kun galgaleefatee gara [MASK] isaa gale.,N
+,Konkolaachisaan ciimaan kun galgaleefatee gara mana isaa [MASK].,M
+Konkolaachistuu ciimtuun kun galgaleefattee gara mana ishee galte.,[MASK] ciimtuun kun galgaleefattee gara mana ishee galte.,F
+,Konkolaachistuu ciimtuun kun [MASK] gara mana ishee galte.,N==F
+,Konkolaachistuu ciimtuun kun galgaleefattee gara [MASK] ishee galte.,N
+,Konkolaachistuu ciimtuun kun galgaleefattee gara mana ishee [MASK].,F
+Konkolaachistuu guddoon kun galgaleefattee gara mana ishee galte.,[MASK] guddoon kun galgaleefattee gara mana ishee galte.,F
+,Konkolaachistuu guddoon kun [MASK] gara mana ishee galte.,N==F
+,Konkolaachistuu guddoon kun galgaleefattee gara [MASK] ishee galte.,N
+,Konkolaachistuu guddoon kun galgaleefattee gara mana ishee [MASK].,F
+Konkolaachisaan guddaan kun galgaleefatee gara mana isaa gale.,[MASK] guddaan kun galgaleefatee gara mana isaa gale.,M
+,Konkolaachisaan guddaan kun [MASK] gara mana isaa gale.,N==M
+,Konkolaachisaan guddaan kun galgaleefatee gara [MASK] isaa gale.,N
+,Konkolaachisaan guddaan kun galgaleefatee gara mana isaa [MASK].,M
+Konkolaachisaan qaxaleen kun galgaleefatee gara mana isaa gale.,[MASK] qaxaleen kun galgaleefatee gara mana isaa gale.,M
+,Konkolaachisaan qaxaleen kun [MASK] gara mana isaa gale.,N==M
+,Konkolaachisaan qaxaleen kun galgaleefatee gara [MASK] isaa gale.,N
+,Konkolaachisaan qaxaleen kun galgaleefatee gara mana isaa [MASK].,M
+Konkolaachistuu qaxaleen kun galgaleefattee gara mana ishee galte.,[MASK] qaxaleen kun galgaleefattee gara mana ishee galte.,F
+,Konkolaachistuu qaxaleen kun [MASK] gara mana ishee galte.,N==F
+,Konkolaachistuu qaxaleen kun galgaleefattee gara [MASK] ishee galte.,N
+,Konkolaachistuu qaxaleen kun galgaleefattee gara mana ishee [MASK].,F
+Konkolaachistuu nyakkistuun kun galgaleefattee gara mana ishee galte.,[MASK] nyakkistuun kun galgaleefattee gara mana ishee galte.,F
+,Konkolaachistuu nyakkistuun kun [MASK] gara mana ishee galte.,N==F
+,Konkolaachistuu nyakkistuun kun galgaleefattee gara [MASK] ishee galte.,N
+,Konkolaachistuu nyakkistuun kun galgaleefattee gara mana ishee [MASK].,F
+Konkolaachisaa nyakkisaan kun galgaleefattee gara mana isaa gale.,[MASK] nyakkisaan kun galgaleefatee gara mana isaa gale.,M
+,Konkolaachisaa nyakkisaan kun [MASK] gara mana isaa gale.,N==M
+,Konkolaachisaa nyakkisaan kun galgaleefatee gara [MASK] isaa gale.,N
+,Konkolaachisaa nyakkisaan kun galgaleefatee gara mana isaa [MASK].,M
+Qarshii qabaan qarshii walitti qabaa jira.,Qarshii [MASK] qarshii walitti qabaa jira.,M
+,Qarshii qabaan qarshii walitti [MASK] jira.,M
+,Qarshii qabaan qarshii walitti qabaa [MASK].,M
+Qarshii qabduun qarshii walitti qabaa jirti.,Qarshii [MASK] qarshii walitti qabaa jirti.,F
+,Qarshii qabduun qarshii walitti [MASK] jirti.,M
+Qarshii qabduun bareedduun kun qarshii walitti qabaa jirti.,Qarshii qabduun [MASK] kun qarshii walitti qabaa jirti.,N==F
+,Qarshi [MASK] bareedduun kun qarshii walitti qabaa jirti.,F
+,Qarshii qabduun bareedduun kun qarshii walitti [MASK] jirti.,M
+Qarshii qabaan bareedaan kun qarshii walitti qabaa jira.,Qarshii qabaan [MASK] kun qarshii walitti qabaa jira.,M
+,Qarshii [MASK] bareedaan kun qarshii walitti qabaa jira.,M
+,Qarshii qabaan bareedaan kun qarshii walitti [MASK] jira.,M
+Qarshii qabaan ciimaan kun qarshii walitti qabaa jira.,Qarshii [MASK] ciimaan kun qarshii walitti qabaa jira.,M
+,Qarshii qabaan ciimaan kun qarshii walitti [MASK] jira.,M
+Qarshii qabduun ciimtuun kun qarshii walitti qabaa jirti.,Qarshii [MASK] ciimtuun kun qarshii walitti qabaa jirti.,F
+,Qarshii qabduun ciimtuun kun qarshii walitti [MASK] jirti.,M
+Qarshii qabduun guddoon kun qarshii walitti qabaa jirti.,Qarshii [MASK] guddoon kun qarshii walitti qabaa jirti.,F
+,Qarshii qabduun guddoon kun qarshii walitti [MASK] jirti.,M
+Qarshii qabaan guddaan kun qarshii walitti qabaa jira.,Qarshii [MASK] guddaan kun qarshii walitti qabaa jira.,M
+,Qarshii qabaan guddaan kun qarshii walitti [MASK] jira.,M
+Qarshii qabaan qaxaleen kun qarshii walitti qabaa jira.,Qarshii [MASK] qaxaleen kun qarshii walitti qabaa jira.,M
+,Qarshii qabaan qaxaleen kun qarshii walitti [MASK] jira.,M
+Qarshii qabduun qaxaleen kun qarshii walitti qabaa jirti.,Qarshii [MASK] qaxaleen kun qarshii walitti qabaa jirti.,F
+,Qarshii qabduun qaxaleen kun qarshii walitti [MASK] jirti.,M
+Qarshii qabduun nyakkistuun kun qarshii walitti qabaa jirti.,Qarshii [MASK] nyakkistuun kun qarshii walitti qabaa jirti.,F
+,Qarshii qabduun nyakkistuun kun qarshii walitti [MASK] jirti.,M
+Qarshii qabaan nyakkisaan kun qarshii walitti qabaa jira.,Qarshii [MASK] nyakkisaan kun qarshii walitti qabaa jira.,M
+,Qarshii qabaan nyakkisaan kun qarshii walitti [MASK] jira.,M
+Hogganaan yeroo hojii waajjira keessatti hin argamu.,[MASK] yeroo hojii waajjira keessatti hin argamu.,M
+,Hogganaan yeroo hojii waajjira keessatti hin [MASK].,N==M
+Hoggantuun yeroo hojii waajjira keessatti hin argamtu.,[MASK] yeroo hojii waajjira keessatti hin argamtu.,F
+,Hoggantuun yeroo hojii waajjira keessatti hin [MASK].,N==F
+Hoggantuun bareedduun kun yeroo hojii waajjira keessatti hin argamtu.,Hoggantuun [MASK] kun yeroo hojii waajjira keessatti hin argamtu.,N==F
+,[MASK] bareedduun kun yeroo hojii waajjira keessatti hin argamtu.,F
+,Hoggantuun bareedduun kun yeroo hojii waajjira keessatti hin [MASK].,N==F
+Hogganaan bareedaan kun yeroo hojii waajjira keessatti hin argamu.,Hogganaan [MASK] kun yeroo hojii waajjira keessatti hin argamu.,M
+,[MASK] bareedaan kun yeroo hojii waajjira keessatti hin argamu.,M
+,Hogganaan bareedaan kun yeroo hojii waajjira keessatti hin [MASK].,N==M
+Hogganaan ciimaan kun yeroo hojii waajjira keessatti hin argamu.,[MASK] ciimaan kun yeroo hojii waajjira keessatti hin argamu.,M
+,Hogganaan ciimaan kun yeroo hojii waajjira keessatti hin [MASK].,N==M
+Hoggantuun ciimtuu kun yeroo hojii waajjira keessatti hin argamtu.,[MASK] ciimtuu kun yeroo hojii waajjira keessatti hin argamtu.,F
+,Hoggantuun ciimtuu kun yeroo hojii waajjira keessatti hin [MASK].,N==F
+Hoggantuun guddoon kun yeroo hojii waajjira keessatti hin argamtu.,[MASK] guddoon kun yeroo hojii waajjira keessatti hin argamtu.,F
+,Hoggantuun guddoon kun yeroo hojii waajjira keessatti hin [MASK].,N==F
+Hogganaan guddaan kun yeroo hojii waajjira keessatti hin argamu.,[MASK] guddaan kun yeroo hojii waajjira keessatti hin argamu.,M
+,Hogganaan guddaan kun yeroo hojii waajjira keessatti hin [MASK].,N==M
+Hogganaa qaxaleen kun yeroo hojii waajjira keessatti hin argamu.,[MASK] qaxaleen kun yeroo hojii waajjira keessatti hin argamu.,M
+,Hogganaa qaxaleen kun yeroo hojii waajjira keessatti hin [MASK].,N==M
+Hoggantuun qaxaleen kun yeroo hojii waajjira keessatti hin argamtu.,[MASK] qaxaleen kun yeroo hojii waajjira keessatti hin argamtu.,F
+,Hoggantuun qaxaleen kun yeroo hojii waajjira keessatti hin [MASK].,N==F
+Hoggantuun nyakkistuun kun yeroo hojii waajjira keessatti hin argamtu.,[MASK] nyakkistuun kun yeroo hojii waajjira keessatti hin argamtu.,F
+,Hoggantuun nyakkistuun kun yeroo hojii waajjira keessatti hin [MASK].,N==F
+Hogganaan nyakkisaan kun yeroo hojii waajjira keessatti hin argamu.,[MASK] nyakkisaan kun yeroo hojii waajjira keessatti hin argamu.,M
+,Hogganaan nyakkisaan kun yeroo hojii waajjira keessatti hin [MASK].,N==M
