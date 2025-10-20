@@ -42,7 +42,7 @@ Only the following fields change per run:
   --top_k 5
 ```
 
-### 📈 Visualizations
+###  Visualizations
 - Scripts in `Code/visualizations/` produce stacked bar plots and Excel summaries:
   - `expected_vs_t1.py` → per-sheet **Expected vs T1 Predicted** (%), saves PNGs + combined PDF and `*_percentages.xlsx`.
   - `t5_distribution.py` → per-sheet **Top-5 distribution** for Expected M/F (%), saves PNGs + combined PDF and `*_percentages.xlsx`.
@@ -50,3 +50,31 @@ Only the following fields change per run:
 ```bash
 python Code/Visualizations/expected_vs_t1.py --xlsx Annotations/ti-annotated.xlsx --out_prefix Expected_vs_T1_ti
 ```
+
+## Models & Tokenizers
+
+We used both **mBERT** and **AfriBERTa** models across **Afan Oromo**, **Amharic**, and **Tigrinya** to finetune and evaluate.
+All fine-tuned checkpoints and tokenizers are publicly available on Hugging Face.
+
+---
+
+### 🔹 mBERT (Multilingual BERT)
+
+| Language | Tokenizer | Fine-tuned Model |
+|-----------|------------|-----------------|
+| **Amharic** | [amharic-nllb-tokenizer](https://huggingface.co/Bonnief/amharic-nllb-tokenizer) | [mbert-am-100k-finetuned-II](https://huggingface.co/Bonnief/mbert-am-100k-finetuned-II) |
+| **Afan Oromo** | [oromo-nllb-tokenizer](https://huggingface.co/Bonnief/oromo-nllb-tokenizer) | [mbert-om-100k-finetuned](https://huggingface.co/Bonnief/mbert-om-100k-finetuned) |
+| **Tigrinya** | [tigrinya-nllb-tokenizer](https://huggingface.co/Bonnief/tigrinya-nllb-tokenizer) | [mbert-ti-100k-finetuned](https://huggingface.co/Bonnief/mbert-ti-100k-finetuned) |
+
+---
+
+### 🔹 AfriBERTa
+
+| Language | Fine-tuned Model |
+|-----------|-----------------|
+| **Amharic** | [Afriberta-100k-am](https://huggingface.co/Bonnief/Afriberta-100k-am) |
+| **Afan Oromo** | [afriberta-om-finetuned](https://huggingface.co/Bonnief/afriberta-om-finetuned) |
+| **Tigrinya** | [afriberta-ti-finetuned](https://huggingface.co/Bonnief/afriberta-ti-finetuned) |
+
+---
+
