@@ -31,7 +31,7 @@ Only the following fields change per run:
   Includes:
   - Annotated Excel files (`Am`, `Om`, `Ti`)
   - The annotation guideline (`Annotation_Guideline.docx`)
-  - Prediction and evaluation scripts are located in [Code/get_predictions.py] This script generates top-k predictions from base and fine-tuned models for comparison against annotated references.
+  - Prediction and evaluation scripts are located in [`Code/get_predictions.py`] This script generates top-k predictions from base and fine-tuned models for comparison against annotated references.
 
 ## Example (Colab)
 ```bash
@@ -40,4 +40,13 @@ Only the following fields change per run:
   --models castorini/afriberta_small Bonnief/mbert-om-100k-finetuned \
   --output_path Results/ti_predictions.xlsx \
   --top_k 5
+```
+
+### 📈 Visualizations
+- Scripts in `Code/visualizations/` produce stacked bar plots and Excel summaries:
+  - `expected_vs_t1.py` → per-sheet **Expected vs T1 Predicted** (%), saves PNGs + combined PDF and `*_percentages.xlsx`.
+  - `t5_distribution.py` → per-sheet **Top-5 distribution** for Expected M/F (%), saves PNGs + combined PDF and `*_percentages.xlsx`.
+- Example:
+```bash
+python Code/Visualizations/expected_vs_t1.py --xlsx Annotations/ti-annotated.xlsx --out_prefix Expected_vs_T1_ti
 ```

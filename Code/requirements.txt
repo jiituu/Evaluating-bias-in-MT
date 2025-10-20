@@ -7,7 +7,12 @@ accelerate>=0.30.0
 # Data handling
 pandas>=2.1.0
 datasets>=2.20.0
-openpyxl  # for Excel export
+openpyxl
+pyarrow
+
+# Visualization
+matplotlib
+numpy
 
 # Utilities
 tqdm
