@@ -108,7 +108,7 @@ All fine-tuned checkpoints and tokenizers are publicly available on Hugging Face
 
 1. **Comparative analyses of linguistic sexism in Afan Oromo, Amharic, and Gamo**  
    *Amanuel Raga Yadate* (2015) [[Paper]](https://www.researchgate.net/publication/338956038_Comparative_analyses_of_linguistic_sexism_in_Afan_Oromo_Amharic_and_Gamo)
-   Examines how cultural gender bias reflects through language structures in Ethiopian languages. The study highlights grammatical obligations where some verbs collocate only with gender-specific nouns, such as verbs meaning "to be left unmarried" that only take feminine arguments. Also discusses lexical differences like separate verbs for "to marry" for males and females in Afan Oromo, where the feminine form carries negative connotations equivalent to "to be sold," reflecting cultural practices of bride prices.
+Examines how cultural gender bias reflects through language structures in Ethiopian languages. The study highlights grammatical obligations where some verbs collocate only with gender-specific nouns, such as verbs meaning "to be left unmarried" that only take feminine arguments. Also discusses lexical differences like separate verbs for "to marry" for males and females in Afan Oromo, where the feminine form carries negative connotations equivalent to "to be sold," reflecting cultural practices of bride prices.
 
 3. **Gender bias ideology as manifested in the grammar of Afan Oromo**  
    [[Paper]](https://academicjournals.org/journal/jlc/article-full-text-pdf/ce8346f2264)  
@@ -116,4 +116,4 @@ All fine-tuned checkpoints and tokenizers are publicly available on Hugging Face
 
 4. **Critical Discourse Analysis of Gender Conceptions in Preparatory Tigrigna Language Textbooks**  
    [[Paper]](https://journal.mu.edu.et/index.php/jebs/article/view/442)  
-   Identifies two main ways femininity is rendered invisible in educational materials: (1) by portraying generic nouns in masculine terms, and (2) by representing gender-neutral nouns from a male perspective. The study also notes some androgynous conceptions of gender while highlighting predominant stereotypic roles and the marginalization of feminine representation.
+Identifies two main ways femininity is rendered invisible in educational materials: (1) by portraying generic nouns in masculine terms, and (2) by representing gender-neutral nouns from a male perspective. The study also notes some androgynous conceptions of gender while highlighting predominant stereotypic roles and the marginalization of feminine representation.
