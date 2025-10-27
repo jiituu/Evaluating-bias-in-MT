@@ -4,34 +4,28 @@ This repository contains the scripts, configurations, and annotated data used to
 It is a sub-repository of the broader *Evaluating Machine Translation Datasets for Low-Web Data Languages: A Gendered Lens 🔍* project.
 
 ---
-📋 Project Overview
+## 📋 Project Overview
+
 We evaluate gender bias in MLMs by analyzing top-1 and top-5 predictions for masked tokens in approximately 376 sentences across three Ethiopian languages. The project involves fine-tuning both mBERT and AfriBERTa models and comparing their predictions against human-annotated references to identify and quantify gender bias patterns.
 
-📁 Repository Structure
-Benchmark/
+## 📁 Repository Structure
+
+### `Benchmark/`
 Contains CSV files with benchmark data for each language used in our evaluation.
 
-Annotations/
+### `Annotations/`
 Stores human-annotated data and labeling guidelines:
+- Annotated Excel files for Amharic (Am), Afan Oromo (Om), and Tigrinya (Tir)
+- Annotation guidelines (`Annotation_Guideline.docx`)
+- Top-1 and top-5 annotated predictions for model evaluation
 
-Annotated Excel files for Amharic (Am), Afan Oromo (Om), and Tigrinya (Tir)
-
-Annotation guidelines (Annotation_Guideline.docx)
-
-Top-1 and top-5 annotated predictions for model evaluation
-
-Code/
+### `Code/`
 Contains all implementation code:
-
-MLM training scripts and configuration (config.json)
-
-Prediction generation script (get_predictions.py)
-
-Visualization scripts for bias analysis:
-
-expected_vs_t1.py: Compares expected vs top-1 predicted percentages
-
-t5_distribution.py: Analyzes top-5 prediction distributions
+- MLM training scripts and configuration (`config.json`)
+- Prediction generation script (`get_predictions.py`)
+- Visualization scripts for bias analysis:
+  - `expected_vs_t1.py`: Compares expected vs top-1 predicted percentages
+  - `t5_distribution.py`: Analyzes top-5 prediction distributions
 
 # MLM Fine-tuning (Afriberta & mBERT)
 
